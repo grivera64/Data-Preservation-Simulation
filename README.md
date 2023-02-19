@@ -17,10 +17,13 @@ A simulation for testing data preservation of base station-less networks (BSNs).
 ---
 This data preservation simulation uses the project [grivera64/Sensor-Network-with-MCF](https://github.com/grivera64/Sensor-Generator-with-MCF)
 to generate a suite of base station-less networks (BSNs) and applies several
-multi-agent policies, such as Random (R), Node-Ordered Greedy (NG), and Distance-Ordered Greedy (DG). 
+multi-agent policies, such as Random (R), Node-Ordered Greedy (NG), and Distance-Ordered Greedy (DG).
+
+This simulation outputs the energy consumption of using the above algorithms, denoted by E_strategy.
 
 This simulation was used jointly in our paper "Nash Equilibria of Data Preservation in Base Station-less Sensor Networks" by Giovanni Rivera,
-Yutian Chen, and Bin Tang, pp. 6-7.
+Yutian Chen, and Bin Tang, pp. 6-7. for analyzing the Rate of Efficiency Loss (REL) for each of these strategies in compared
+to the optimal energy consumption from the Minimum Cost Flow algorithm (More information can be found in [grivera64/Sensor-Network-with-MCF](https://github.com/grivera64/Sensor-Generator-with-MCF)). 
 
 ## Setup
 
