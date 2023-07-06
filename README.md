@@ -24,7 +24,7 @@ This simulation outputs the energy consumption of using the above algorithms, de
 
 This simulation was used jointly in our paper "Nash Equilibria of Data Preservation in Base Station-less Sensor Networks" by Giovanni Rivera,
 Yutian Chen, and Bin Tang, pp. 6-7. for analyzing the Rate of Efficiency Loss (REL) for each of these strategies in compared
-to the optimal energy consumption from the Minimum Cost Flow algorithm (More information can be found in [grivera64/Sensor-Network-with-MCF](https://github.com/grivera64/Sensor-Generator-with-MCF)). 
+to the optimal energy consumption from the Minimum Cost Flow algorithm. You can view the paper [here](https://scholarworks.calstate.edu/concern/publications/vx021n445).
 
 ## Setup
 
