@@ -10,6 +10,7 @@ A simulation for testing data preservation of base station-less networks (BSNs).
 - [Setup](#setup)
 - [Example](#example)
     - [Terminal Output](#terminal-output)
+- [Related Projects](#related-projects)
 - [Author](#author)
 
 ## About
@@ -98,6 +99,22 @@ E_R  = 10226 micro J (0.01 J)
 E_NG = 9002 micro J (0.01 J)
 E_DG = 7708 micro J (0.01 J)
 ```
+
+## Related Projects
+
+---
+
+- Sensor Generator with MCF ([grivera64/Sensor-Generator-with-MCF](https://github.com/grivera64/Sensor-Generator-with-MCF))
+  - Sensor Network generator and visualizer for CS2 Min-Cost Flow input.
+  - By Giovanni Rivera ([@grivera64](https://github.com/grivera64))
+
+- Sensor Generator with Max Profit ([grivera64/Sensor-Generator-with-Max-Profit](https://github.com/grivera64/Sensor-Generator-with-Max-Profit))
+  - Reimplementation of [grivera64/SensorGenerator-with-MCF](https://github.com/grivera64/Sensor-Generator-with-MCF) for maximizing profit in data preservation.
+  - By Giovanni Rivera ([@grivera64](https://github.com/grivera64))
+ 
+- Max Profit Data Preservation Simulation ([grivera64/Max-Profit-Data-Preservation-Simulation](https://github.com/grivera64/Max-Profit-Data-Preservation-Simulation))
+  - Reimplementation of [grivera64/Data-Preservation-Simulation](https://github.com/grivera64/Data-Preservation-Simulation) for maximizing profit in data preservation.
+  - By Giovanni Rivera ([@grivera64](https://github.com/grivera64)) & Christopher Gonzalez ([@chrisagonza97](https://github.com/chrisagonza97))
 
 ## Author
 
